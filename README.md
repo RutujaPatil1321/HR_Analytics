@@ -4,6 +4,10 @@ The Human Resources Power BI dashboard allows users to get a clear overview of t
 ## Features
 ![Home](https://github.com/RutujaPatil1321/HR_Analytics/assets/111111449/714f211c-a799-4d10-b7d4-075d48636918)
 
+![Actions](https://github.com/RutujaPatil1321/HR_Analytics/assets/111111449/b4121776-c8fe-4855-898a-c1d71eddde4f)
+
+![Details](https://github.com/RutujaPatil1321/HR_Analytics/assets/111111449/6fecdd5c-e72e-4c9b-9b75-7737256939ed)
+
 ## Screenshots
 ### 1.Home
 ![Screenshot (64)](https://github.com/RutujaPatil1321/HR_Analytics/assets/111111449/67dccb90-cb5f-4d69-a12b-0a854d661900)
