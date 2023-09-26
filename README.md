@@ -1,6 +1,9 @@
 # HR_Analytics
 ## Overview
 The Human Resources Power BI dashboard allows users to get a clear overview of the company's employees and the most relevant top-level KPIs: Headcount, Salaries, Hires and Terminations. The 4 subsequent pages provide a more detailed view into each of the KPIs and the demographics.A full end-to-end analytics and reporting solution – built on Microsoft Power BI – to help you discover useful HR insights for strategic decision making.
+## Features
+![Home](https://github.com/RutujaPatil1321/HR_Analytics/assets/111111449/714f211c-a799-4d10-b7d4-075d48636918)
+
 ## Screenshots
 ### 1.Home
 ![Screenshot (64)](https://github.com/RutujaPatil1321/HR_Analytics/assets/111111449/67dccb90-cb5f-4d69-a12b-0a854d661900)
